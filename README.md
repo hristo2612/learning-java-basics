@@ -13,3 +13,5 @@ Then:
 ```
 
 Make sure you have JRE & JDK installed on your computer.
+
+All of the exercises I found on: [Programming By Doing Website](https://programmingbydoing.com/)
