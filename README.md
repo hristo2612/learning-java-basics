@@ -3,13 +3,13 @@
 To run programs, go to desired folder ( example: sine-wave ), and run:
 
 ```bash
-  javac SineWave.java
+  javac {THE_NAME_OF_THE_FILE}.java
 ```
 
 Then:
 
 ```bash
-  java SineWave
+  java {THE_NAME_OF_THE_FILE}
 ```
 
 Make sure you have JRE & JDK installed on your computer.
